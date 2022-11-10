@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "tipo": "Remera",
+    "nombre": "Musculosa LIFT",
+    "precio": 1400,
+    "foto": "./media/musculosa.jpg"
+}, {
+    "id": 2,
+    "tipo": "Remera",
+    "nombre": "Musculosa",
+    "precio": 1400,
+    "foto": "./media/musc.jpg"
+}, {
+    "id": 3,
+    "tipo": "Remera",
+    "nombre": "Remera LIFT",
+    "precio": 1000,
+    "foto": "./media/remera.jpg"
+}, {
+    "id": 4,
+    "tipo": "Remera",
+    "nombre": "Shirt LIFT",
+    "precio": 1000,
+    "foto": "./media/shirt.jpg"
+}, {
+    "id": 5,
+    "tipo": "Remera",
+    "nombre": "Remera White",
+    "precio": 1400,
+    "foto": "./media/white.jpg"
+}, {
+    "id": 6,
+    "tipo": "Buzo",
+    "nombre": "Sleeve",
+    "precio": 1500,
+    "foto": "./media/sleeve.jpg"
+}, {
+    "id": 7,
+    "tipo": "Buzo",
+    "nombre": "Hoodie LIFT",
+    "precio": 4500,
+    "foto": "./media/hoodie.jpg"
+}, {
+    "id": 8,
+    "tipo": "Buzo",
+    "nombre": "Wear",
+    "precio": 3800,
+    "foto": "./media/wear.jpg"
+}, {
+    "id": 9,
+    "tipo": "Buzo",
+    "nombre": "Buzo LIFT",
+    "precio": 3800,
+    "foto": "./media/buzo.jpg"
+}, {
+    "id": 10,
+    "tipo": "Pantalon",
+    "nombre": "Pants",
+    "precio": 2900,
+    "foto": "./media/pants.jpg"
+}]
